@@ -1,0 +1,732 @@
+---------  MOSTRANDO TODOS LOS DIGIMON (ENDPOINT 1)  --------- 
+
+ *
+ Name:  Koromon
+ Level: In Training
+ *
+ Name:  Tsunomon
+ Level: In Training
+ *
+ Name:  Yokomon
+ Level: In Training
+ *
+ Name:  Motimon
+ Level: In Training
+ *
+ Name:  Tanemon
+ Level: In Training
+ *
+ Name:  Bukamon
+ Level: In Training
+ *
+ Name:  Tokomon
+ Level: In Training
+ *
+ Name:  Agumon
+ Level: Rookie
+ *
+ Name:  Gabumon
+ Level: Rookie
+ *
+ Name:  Biyomon
+ Level: Rookie
+ *
+ Name:  Tentomon
+ Level: Rookie
+ *
+ Name:  Palmon
+ Level: Rookie
+ *
+ Name:  Gomamon
+ Level: Rookie
+ *
+ Name:  Patamon
+ Level: Rookie
+ *
+ Name:  Kuwagamon
+ Level: Champion
+ *
+ Name:  Greymon
+ Level: Champion
+ *
+ Name:  Shellmon
+ Level: Champion
+ *
+ Name:  Garurumon
+ Level: Champion
+ *
+ Name:  Seadramon
+ Level: Champion
+ *
+ Name:  Monochromon
+ Level: Champion
+ *
+ Name:  Birdramon
+ Level: Champion
+ *
+ Name:  Meramon
+ Level: Champion
+ *
+ Name:  Kabuterimon
+ Level: Champion
+ *
+ Name:  Andromon
+ Level: Ultimate
+ *
+ Name:  Togemon
+ Level: Champion
+ *
+ Name:  Numemon
+ Level: Champion
+ *
+ Name:  Monzaemon
+ Level: Ultimate
+ *
+ Name:  Ikkakumon
+ Level: Champion
+ *
+ Name:  Unimon
+ Level: Champion
+ *
+ Name:  Leomon
+ Level: Champion
+ *
+ Name:  Ogremon
+ Level: Champion
+ *
+ Name:  Devimon
+ Level: Champion
+ *
+ Name:  Frigimon
+ Level: Champion
+ *
+ Name:  Mojyamon
+ Level: Champion
+ *
+ Name:  Sukamon
+ Level: Champion
+ *
+ Name:  Centarumon
+ Level: Champion
+ *
+ Name:  Bakemon
+ Level: Champion
+ *
+ Name:  Elecmon
+ Level: Rookie
+ *
+ Name:  Botamon
+ Level: Fresh
+ *
+ Name:  Punimon
+ Level: Fresh
+ *
+ Name:  Poyomon
+ Level: Fresh
+ *
+ Name:  Yuramon
+ Level: Fresh
+ *
+ Name:  Angemon
+ Level: Champion
+ *
+ Name:  Whamon
+ Level: Champion
+ *
+ Name:  Drimogemon
+ Level: Champion
+ *
+ Name:  Etemon
+ Level: Ultimate
+ *
+ Name:  Gazimon
+ Level: Rookie
+ *
+ Name:  Pagumon
+ Level: In Training
+ *
+ Name:  SkullGreymon
+ Level: Ultimate
+ *
+ Name:  Kokatorimon
+ Level: Champion
+ *
+ Name:  Tyrannomon
+ Level: Champion
+ *
+ Name:  Piximon
+ Level: Ultimate
+ *
+ Name:  Datamon
+ Level: Ultimate
+ *
+ Name:  MetalGreymon
+ Level: Ultimate
+ *
+ Name:  DemiDevimon
+ Level: Rookie
+ *
+ Name:  WereGarurumon
+ Level: Ultimate
+ *
+ Name:  Digitamamon
+ Level: Ultimate
+ *
+ Name:  Vegiemon
+ Level: Champion
+ *
+ Name:  Myotismon
+ Level: Ultimate
+ *
+ Name:  Vademon
+ Level: Ultimate
+ *
+ Name:  Pabumon
+ Level: Fresh
+ *
+ Name:  Gekomon
+ Level: Champion
+ *
+ Name:  Otamamon
+ Level: Rookie
+ *
+ Name:  ShogunGekomon
+ Level: Ultimate
+ *
+ Name:  Garudamon
+ Level: Ultimate
+ *
+ Name:  Flymon
+ Level: Champion
+ *
+ Name:  Gatomon
+ Level: Champion
+ *
+ Name:  Nanimon
+ Level: Champion
+ *
+ Name:  Devidramon
+ Level: Champion
+ *
+ Name:  Dokugumon
+ Level: Champion
+ *
+ Name:  Mammothmon
+ Level: Ultimate
+ *
+ Name:  Gesomon
+ Level: Champion
+ *
+ Name:  Raremon
+ Level: Champion
+ *
+ Name:  SkullMeramon
+ Level: Ultimate
+ *
+ Name:  Wizardmon
+ Level: Champion
+ *
+ Name:  Pumpkinmon
+ Level: Ultimate
+ *
+ Name:  Gotsumon
+ Level: Rookie
+ *
+ Name:  Lillymon
+ Level: Ultimate
+ *
+ Name:  Phantomon
+ Level: Ultimate
+ *
+ Name:  DarkTyrannomon
+ Level: Champion
+ *
+ Name:  Gizamon
+ Level: Rookie
+ *
+ Name:  Zudomon
+ Level: Ultimate
+ *
+ Name:  MegaSeadramon
+ Level: Ultimate
+ *
+ Name:  Angewomon
+ Level: Ultimate
+ *
+ Name:  Tuskmon
+ Level: Champion
+ *
+ Name:  Snimon
+ Level: Champion
+ *
+ Name:  MegaKabuterimon
+ Level: Ultimate
+ *
+ Name:  MagnaAngemon
+ Level: Ultimate
+ *
+ Name:  VenomMyotismon
+ Level: Mega
+ *
+ Name:  WarGreymon
+ Level: Mega
+ *
+ Name:  MetalGarurumon
+ Level: Mega
+ *
+ Name:  Nyaromon
+ Level: In Training
+ *
+ Name:  Salamon
+ Level: Rookie
+ *
+ Name:  Parrotmon
+ Level: Ultimate
+ *
+ Name:  Chuumon
+ Level: Rookie
+ *
+ Name:  MetalSeadramon
+ Level: Mega
+ *
+ Name:  Machinedramon
+ Level: Mega
+ *
+ Name:  Piedmon
+ Level: Mega
+ *
+ Name:  Puppetmon
+ Level: Mega
+ *
+ Name:  Scorpiomon
+ Level: Ultimate
+ *
+ Name:  Divermon
+ Level: Ultimate
+ *
+ Name:  Kiwimon
+ Level: Champion
+ *
+ Name:  Mushroomon
+ Level: Rookie
+ *
+ Name:  Blossomon
+ Level: Ultimate
+ *
+ Name:  Floramon
+ Level: Rookie
+ *
+ Name:  Deramon
+ Level: Ultimate
+ *
+ Name:  Cherrymon
+ Level: Ultimate
+ *
+ Name:  Garbagemon
+ Level: Ultimate
+ *
+ Name:  MetalEtemon
+ Level: Mega
+ *
+ Name:  SaberLeomon
+ Level: Mega
+ *
+ Name:  RedVegiemon
+ Level: Champion
+ *
+ Name:  Mekanorimon
+ Level: Champion
+ *
+ Name:  Tankmon
+ Level: Champion
+ *
+ Name:  Hagurumon
+ Level: Rookie
+ *
+ Name:  WaruMonzaemon
+ Level: Ultimate
+ *
+ Name:  LadyDevimon
+ Level: Ultimate
+ *
+ Name:  Vilemon
+ Level: Champion
+ *
+ Name:  Apocalymon
+ Level: Mega
+ *
+ Name:  Kunemon
+ Level: Rookie
+ *
+ Name:  Musyamon
+ Level: Champion
+ *
+ Name:  Starmon
+ Level: Champion
+ *
+ Name:  HerculesKabuterimon
+ Level: Mega
+ *
+ Name:  Candlemon
+ Level: Rookie
+ *
+ Name:  Hanumon
+ Level: Champion
+ *
+ Name:  Kokuwamon
+ Level: Rookie
+ *
+ Name:  Revolvermon
+ Level: Champion
+ *
+ Name:  Plesiomon
+ Level: Mega
+ *
+ Name:  Megadramon
+ Level: Ultimate
+ *
+ Name:  BlueMeramon
+ Level: Champion
+ *
+ Name:  Magnadramon
+ Level: Mega
+ *
+ Name:  Gorillamon
+ Level: Champion
+ *
+ Name:  Syakomon
+ Level: Rookie
+ *
+ Name:  MarineAngemon
+ Level: Mega
+ *
+ Name:  Boltmon
+ Level: Mega
+ *
+ Name:  Mamemon
+ Level: Ultimate
+ *
+ Name:  ExTyrannomon
+ Level: Ultimate
+ *
+ Name:  Veedramon
+ Level: Champion
+ *
+ Name:  AeroVeedramon
+ Level: Ultimate
+ *
+ Name:  Phoenixmon
+ Level: Mega
+ *
+ Name:  Betamon
+ Level: Rookie
+ *
+ Name:  Guardromon
+ Level: Champion
+ *
+ Name:  Penguinmon
+ Level: Rookie
+ *
+ Name:  PlatinumSukamon
+ Level: Champion
+ *
+ Name:  Psychemon
+ Level: Rookie
+ *
+ Name:  Tsukaimon
+ Level: Rookie
+ *
+ Name:  ModokiBetamon
+ Level: Champion
+ *
+ Name:  Saberdramon
+ Level: Champion
+ *
+ Name:  SnowAgumon
+ Level: Rookie
+ *
+ Name:  Icemon
+ Level: Champion
+ *
+ Name:  Airdramon
+ Level: Champion
+ *
+ Name:  MetalTyrannomon
+ Level: Ultimate
+ *
+ Name:  Akatorimon
+ Level: Champion
+ *
+ Name:  Geremon
+ Level: Champion
+ *
+ Name:  Vermilimon
+ Level: Ultimate
+ *
+ Name:  Meteormon
+ Level: Ultimate
+ *
+ Name:  Jijimon
+ Level: Mega
+ *
+ Name:  Babamon
+ Level: Mega
+ *
+ Name:  FlareRizamon
+ Level: Champion
+ *
+ Name:  Thunderballmon
+ Level: Champion
+ *
+ Name:  Muchomon
+ Level: Rookie
+ *
+ Name:  Goldramon
+ Level: Mega
+ *
+ Name:  Soulmon
+ Level: Champion
+ *
+ Name:  Rosemon
+ Level: Mega
+ *
+ Name:  Piddomon
+ Level: Champion
+ *
+ Name:  Gigadramon
+ Level: Ultimate
+ *
+ Name:  Cyberdramon
+ Level: Ultimate
+ *
+ Name:  SkullSatamon
+ Level: Ultimate
+ *
+ Name:  Milleniummon
+ Level: Mega
+ *
+ Name:  Daemon
+ Level: Mega
+ *
+ Name:  KingEtemon
+ Level: Mega
+ *
+ Name:  Chibomon
+ Level: Fresh
+ *
+ Name:  Pururumon
+ Level: Fresh
+ *
+ Name:  Tsubumon
+ Level: Fresh
+ *
+ Name:  DemiVeemon
+ Level: Training
+ *
+ Name:  Poromon
+ Level: Training
+ *
+ Name:  Upamon
+ Level: Training
+ *
+ Name:  Hawkmon
+ Level: Rookie
+ *
+ Name:  Armadillomon
+ Level: Rookie
+ *
+ Name:  Wormmon
+ Level: Rookie
+ *
+ Name:  Flamedramon
+ Level: Armor
+ *
+ Name:  Raidramon
+ Level: Armor
+ *
+ Name:  Magnamon
+ Level: Armor
+ *
+ Name:  Sethmon
+ Level: Armor
+ *
+ Name:  Halsemon
+ Level: Armor
+ *
+ Name:  Shurimon
+ Level: Armor
+ *
+ Name:  Toucanmon
+ Level: Armor
+ *
+ Name:  Submarimon
+ Level: Armor
+ *
+ Name:  Bucchiemon
+ Level: Armor
+ *
+ Name:  Stegomon
+ Level: Armor
+ *
+ Name:  Pegasusmon
+ Level: Armor
+ *
+ Name:  Nefertimon
+ Level: Armor
+ *
+ Name:  ExVeemon
+ Level: Champion
+ *
+ Name:  Stingmon
+ Level: Champion
+ *
+ Name:  Aquillamon
+ Level: Champion
+ *
+ Name:  Ankylomon
+ Level: Champion
+ *
+ Name:  Paildramon
+ Level: Ultimate
+ *
+ Name:  Dinobeemon
+ Level: Ultimate
+ *
+ Name:  Silphymon
+ Level: Ultimate
+ *
+ Name:  Shakkoumon
+ Level: Ultimate
+ *
+ Name:  Imperialdramon
+ Level: Mega
+ *
+ Name:  GranKuwagamon
+ Level: Mega
+ *
+ Name:  Valkyrimon
+ Level: Mega
+ *
+ Name:  Vikemon
+ Level: Mega
+ *
+ Name:  Seraphimon
+ Level: Mega
+ *
+ Name:  Zhuqiaomon
+ Level: Mega
+ *
+ Name:  Azulongmon
+ Level: Mega
+ *
+ Name:  Baihumon
+ Level: Mega
+ *
+ Name:  Mokumon
+ Level: Fresh
+ *
+ Name:  Omnimon
+ Level: Mega
+ *
+---------  MOSTRANDO TODOS LOS DIGIMON NIVEL ROOKIE (ENDPOINT 2)  --------- 
+ 
+ *
+ Name:  Agumon
+ Level: Rookie
+ *
+ Name:  Gabumon
+ Level: Rookie
+ *
+ Name:  Biyomon
+ Level: Rookie
+ *
+ Name:  Tentomon
+ Level: Rookie
+ *
+ Name:  Palmon
+ Level: Rookie
+ *
+ Name:  Gomamon
+ Level: Rookie
+ *
+ Name:  Patamon
+ Level: Rookie
+ *
+ Name:  Elecmon
+ Level: Rookie
+ *
+ Name:  Gazimon
+ Level: Rookie
+ *
+ Name:  DemiDevimon
+ Level: Rookie
+ *
+ Name:  Otamamon
+ Level: Rookie
+ *
+ Name:  Gotsumon
+ Level: Rookie
+ *
+ Name:  Gizamon
+ Level: Rookie
+ *
+ Name:  Salamon
+ Level: Rookie
+ *
+ Name:  Chuumon
+ Level: Rookie
+ *
+ Name:  Mushroomon
+ Level: Rookie
+ *
+ Name:  Floramon
+ Level: Rookie
+ *
+ Name:  Hagurumon
+ Level: Rookie
+ *
+ Name:  Kunemon
+ Level: Rookie
+ *
+ Name:  Candlemon
+ Level: Rookie
+ *
+ Name:  Kokuwamon
+ Level: Rookie
+ *
+ Name:  Syakomon
+ Level: Rookie
+ *
+ Name:  Betamon
+ Level: Rookie
+ *
+ Name:  Penguinmon
+ Level: Rookie
+ *
+ Name:  Psychemon
+ Level: Rookie
+ *
+ Name:  Tsukaimon
+ Level: Rookie
+ *
+ Name:  SnowAgumon
+ Level: Rookie
+ *
+ Name:  Muchomon
+ Level: Rookie
+ *
+ Name:  Hawkmon
+ Level: Rookie
+ *
+ Name:  Armadillomon
+ Level: Rookie
+ *
+ Name:  Wormmon
+ Level: Rookie
+ *
+---------  MOSTRANDO DIGIMON CON NOMBRE AGUMON (ENDPOINT 3)  --------- 
+
+ *
+ Name:  Agumon
+ Level: Rookie
+ *
